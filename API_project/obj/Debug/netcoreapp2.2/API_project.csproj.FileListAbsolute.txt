@@ -1,0 +1,16 @@
+D:\3ITF\Angular\Project API\API_project\API_project\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\3ITF\Angular\Project API\API_project\API_project\bin\Debug\netcoreapp2.2\appsettings.json
+D:\3ITF\Angular\Project API\API_project\API_project\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\3ITF\Angular\Project API\API_project\API_project\bin\Debug\netcoreapp2.2\API_project.deps.json
+D:\3ITF\Angular\Project API\API_project\API_project\bin\Debug\netcoreapp2.2\API_project.runtimeconfig.json
+D:\3ITF\Angular\Project API\API_project\API_project\bin\Debug\netcoreapp2.2\API_project.runtimeconfig.dev.json
+D:\3ITF\Angular\Project API\API_project\API_project\bin\Debug\netcoreapp2.2\API_project.dll
+D:\3ITF\Angular\Project API\API_project\API_project\bin\Debug\netcoreapp2.2\API_project.pdb
+D:\3ITF\Angular\Project API\API_project\API_project\obj\Debug\netcoreapp2.2\API_project.csprojAssemblyReference.cache
+D:\3ITF\Angular\Project API\API_project\API_project\obj\Debug\netcoreapp2.2\API_project.RazorAssemblyInfo.cache
+D:\3ITF\Angular\Project API\API_project\API_project\obj\Debug\netcoreapp2.2\API_project.RazorAssemblyInfo.cs
+D:\3ITF\Angular\Project API\API_project\API_project\obj\Debug\netcoreapp2.2\API_project.AssemblyInfoInputs.cache
+D:\3ITF\Angular\Project API\API_project\API_project\obj\Debug\netcoreapp2.2\API_project.AssemblyInfo.cs
+D:\3ITF\Angular\Project API\API_project\API_project\obj\Debug\netcoreapp2.2\API_project.RazorTargetAssemblyInfo.cache
+D:\3ITF\Angular\Project API\API_project\API_project\obj\Debug\netcoreapp2.2\API_project.dll
+D:\3ITF\Angular\Project API\API_project\API_project\obj\Debug\netcoreapp2.2\API_project.pdb
